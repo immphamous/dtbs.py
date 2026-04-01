@@ -1,6 +1,8 @@
 # dtbs.py
 Simplifies SQLITE3 to handle the commands in python form, might not be fully complete though
 
+ℹ️ This repository was made with AI.
+
 ## Example code
 ```py
 
